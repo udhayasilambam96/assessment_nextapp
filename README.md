@@ -3,7 +3,7 @@ Here I am using "use client" to use grid components.
 
 Added a meta title to the layout page. If anything needs to be added, the extra meta should be added to every page (In Use-Effects).
 
-
+You can access this URL to view the output : https://assessment-nextapp.vercel.app/
 
 
 ## Getting Started
